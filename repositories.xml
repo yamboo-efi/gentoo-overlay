@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+    <repo priority="50" quality="experimental" status="unofficial">
+        <name>yamboo-efi</name>
+        <description>yamboo-efi overlay</description>
+        <homepage>https://github.com/yamboo-efi/gentoo-overlay</homepage>
+        <owner>
+            <email>yamboo.efi@gmail.com</email>
+        </owner>
+        <source type="git">https://github.com/yamboo-efi/gentoo-overlay.git</source>
+    </repo>
+</repositories>

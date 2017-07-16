@@ -7,7 +7,7 @@ DESCRIPTION="Atlassian Plugin SDK"
 HOMEPAGE="https://marketplace.atlassian.com/plugins/atlassian-plugin-sdk-tgz/versions"
 SRC_URI="https://marketplace.atlassian.com/download/plugins/atlassian-plugin-sdk-tgz/version/42390 -> ${P}.tar.gz"
 
-LICENSE="Atlassian Developer Terms"
+LICENSE="atlassian-developer-terms"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
